@@ -1,0 +1,40 @@
+[
+  {
+    "id": "animals",
+    "title": "Animals",
+    "description": "Common animals from around the world",
+    "words": ["lion", "tiger", "elephant", "kangaroo", "panda", "giraffe", "zebra", "monkey", "dolphin", "penguin", "eagle", "shark", "butterfly", "octopus", "koala", "cheetah", "hippo", "rhino", "flamingo", "owl"]
+  },
+  {
+    "id": "food",
+    "title": "Food & Drinks",
+    "description": "Delicious foods and beverages",
+    "words": ["pizza", "sushi", "burger", "pasta", "taco", "sandwich", "salad", "soup", "ice cream", "chocolate", "coffee", "tea", "smoothie", "cake", "cookies", "bread", "cheese", "fruit", "vegetables", "steak"]
+  },
+  {
+    "id": "movies",
+    "title": "Movies",
+    "description": "Popular movies and film genres",
+    "words": ["action", "comedy", "drama", "horror", "romance", "thriller", "adventure", "animation", "documentary", "fantasy", "sci-fi", "mystery", "musical", "western", "biography", "crime", "family", "war", "superhero", "indie"]
+  },
+  {
+    "id": "sports",
+    "title": "Sports",
+    "description": "Various sports and activities",
+    "words": ["football", "basketball", "tennis", "soccer", "baseball", "swimming", "running", "cycling", "golf", "volleyball", "hockey", "boxing", "skiing", "surfing", "climbing", "yoga", "dancing", "wrestling", "gymnastics", "bowling"]
+  },
+  {
+    "id": "countries",
+    "title": "Countries",
+    "description": "Countries around the world",
+    "words": ["USA", "Canada", "Mexico", "Brazil", "France", "Germany", "Italy", "Spain", "Japan", "China", "India", "Australia", "Russia", "Egypt", "Kenya", "Norway", "Sweden", "Greece", "Thailand", "Argentina"]
+  },
+  {
+    "id": "professions",
+    "title": "Professions",
+    "description": "Different jobs and careers",
+    "words": ["doctor", "teacher", "engineer", "artist", "chef", "pilot", "nurse", "lawyer", "musician", "writer", "farmer", "firefighter", "police", "scientist", "architect", "photographer", "mechanic", "dentist", "designer", "programmer"]
+  }
+]
+
+
